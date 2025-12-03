@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "젤리피아"
+
+[ejs.landing]
+mediaGitHubURL = "https://github.com/aaaawsq/jellypia1"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.gg/hAJQ35T5AQ"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/aaaawsq/jellypia1"
+supportLink = "https://github.com/aaaawsq/jellypia1/issues"
+
+[ejs.welcome]
+welcomeHeader = "젤리피아에 오신 것을 환영합니다."
+welcomeDescription = "해당 런처는 '아이곰(discord: babybear7)'에 의해 제작되었습니다."
+welcomeDescCTA = "몇번만 더 클릭하시면 됩니다!"
